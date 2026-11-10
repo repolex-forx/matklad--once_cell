@@ -1,0 +1,11 @@
+{
+  "org": "matklad",
+  "repo": "once_cell",
+  "versions": [
+    {
+      "commit": "80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0",
+      "tag": "v1.21.4",
+      "parsed_at": "2026-11-10T01:16:33.384386+00:00"
+    }
+  ]
+}
