@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/matklad/once_cell/commit/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0",
       "git:hexsha": "80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.21.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.21.4",
+      "repolex:parsedAt": "2026-11-10T01:16:33.308822+00:00"
     },
     {
       "@id": "https://repolex.ai/r/matklad/once_cell/commit/89c6376a74691bea3ade12556cad7f1024efeee8",
