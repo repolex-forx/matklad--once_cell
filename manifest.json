@@ -47,7 +47,60 @@
       "ast": [
         "aggregate/ast/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0/chunk-001.nq.gz"
       ],
-      "repolex": "aggregate/repolex/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0/chunk-001.nq.gz"
+      "repolex": "aggregate/repolex/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0/chunk-001.nq.gz",
+      "lsp": "aggregate/lsp/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "parking_lot_core",
+          "ecosystem": "CARGO",
+          "version": "0.9.10",
+          "githubOrg": "Amanieu",
+          "githubRepo": "parking_lot",
+          "githubUrl": "https://github.com/Amanieu/parking_lot",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "portable-atomic",
+          "ecosystem": "CARGO",
+          "version": "1.8",
+          "githubOrg": "taiki-e",
+          "githubRepo": "portable-atomic",
+          "githubUrl": "https://github.com/taiki-e/portable-atomic",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "critical-section",
+          "ecosystem": "CARGO",
+          "version": "1.1.3",
+          "githubOrg": "rust-embedded",
+          "githubRepo": "critical-section",
+          "githubUrl": "https://github.com/rust-embedded/critical-section",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "regex",
+          "ecosystem": "CARGO",
+          "version": "1.10.6",
+          "githubOrg": "rust-lang",
+          "githubRepo": "regex",
+          "githubCommit": "ab88aa5c6824ebe7c4b4c72fe5191681783b3a68",
+          "githubTag": "1.10.6",
+          "githubUrl": "https://github.com/rust-lang/regex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "xshell",
+          "ecosystem": "CARGO",
+          "version": "0.2.7",
+          "githubOrg": "matklad",
+          "githubRepo": "xshell",
+          "githubCommit": "9a405946ecbbfe50fe4a7229bd764194154e4ce6",
+          "githubTag": "v0.2.7",
+          "githubUrl": "https://github.com/matklad/xshell",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xshell-0.2.7/src/lib.rs"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
