@@ -100,7 +100,8 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xshell-0.2.7/src/lib.rs"
         }
-      ]
+      ],
+      "dep": "dep/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
