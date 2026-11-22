@@ -1,0 +1,6 @@
+[2026-11-22T01:48:57Z] === AST ITERATION 2 START | repo=matklad/once_cell sha=80fe900b ===
+[2026-11-22T01:48:57Z] [iter=2] PHASE START: ast repo=matklad/once_cell sha=80fe900b
+[2026-11-22T01:48:57Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0
+[2026-11-22T01:48:57Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0/.complete
+[2026-11-22T01:48:57Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-11-22T01:48:57Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
