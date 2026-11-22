@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0.nq.gz
 │   └── repolex
 │       └── 80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0
 │           └── chunk-001.nq.gz
@@ -80,6 +82,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0.nq.gz
 ├── filetree
 │   └── 80fe900b21f6d76c1a2ed74d3343e8a3a88c46d0.nq.gz
 ├── issue
@@ -89,7 +93,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 42 files
+15 directories, 44 files
 ```
 
 | Directory | What it contains |
@@ -110,4 +114,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [matklad/once_cell](https://github.com/matklad/once_cell)
 
 ---
-*Parsed on 2026-11-10 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
